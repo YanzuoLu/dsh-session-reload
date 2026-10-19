@@ -1,0 +1,3 @@
+- insert:
+    - id: session-reload
+      name: dsh-session-reload
